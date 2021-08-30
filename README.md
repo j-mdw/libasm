@@ -1,5 +1,5 @@
 # libasm
-A library with basic C functions written in ASM x86_64 on linux
+A library with basic C functions written in Assembly x86_64 on ubuntu 18.04
 
 Assembler: NASM
 
